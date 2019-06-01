@@ -6,4 +6,4 @@ Final Project for MSDS 622
 
 Example plots:
 
-![FIP vs FB Velocity](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season/)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ecalkins/102.embed"></iframe>
