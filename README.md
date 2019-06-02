@@ -1,9 +1,14 @@
 # MLB Pitch Data Visualization
+*Final Project for MSDS 622 (Data Visualization)*
 
-Final Project for MSDS 622
+Select plots:
 
-- [Final report](final_project_evan_calkins.pdf)
+![](select_plots/Studs_Duds_Location_Heatmap.JPG)
 
-Example plots:
+![](select_plots/FIP_Velocity_Strike_Scatter.png)
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ecalkins/102.embed"></iframe>
+[Link to interactive version](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season?style=centerme)
+
+![](select_plots/Stadium_HR_Attendance_Map.png)
+
+[Link to interactive version](https://plot.ly/~ecalkins/106/mlb-stadiums-by-2018-home-runs-avg-attendance-hover-for-attendance-numbers)
