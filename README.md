@@ -10,13 +10,13 @@ For the final project for USF's Data Visualization course, I chose to combine tw
 
 ## Select Plots
 ![](select_plots/FIP_Velocity_Strike_Scatter.JPG)
+[^ Link to interactive version](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season)
 
-[Link to interactive version](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season)
 
 
 ![](select_plots/Stadium_HR_Attendance_Map.JPG)
+[^ Link to interactive version](https://plot.ly/~ecalkins/106/mlb-stadiums-by-2018-home-runs-avg-attendance-hover-for-attendance-numbers)
 
-[Link to interactive version](https://plot.ly/~ecalkins/106/mlb-stadiums-by-2018-home-runs-avg-attendance-hover-for-attendance-numbers)
 
 
 ![](select_plots/Studs_Duds_Location_Heatmap.JPG)
