@@ -8,14 +8,15 @@ For the final project for USF's Data Visualization course, I chose to combine tw
  - [Code for plots](final_project_ecalkins.ipynb)
  - [Primary data source](https://www.kaggle.com/pschale/mlb-pitch-data-20152018#pitches.csv)
 
-## Select plots
+## Select Plots
+![](select_plots/FIP_Velocity_Strike_Scatter.JPG)
 
-![](select_plots/FIP_Velocity_Strike_Scatter.png)
+[Link to interactive version](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season)
 
-[Link to interactive version](https://plot.ly/~ecalkins/102/impact-of-fastball-velocity-strike-percentage-on-fip-2018-season?style=centerme)
 
-![](select_plots/Stadium_HR_Attendance_Map.png)
+![](select_plots/Stadium_HR_Attendance_Map.JPG)
 
 [Link to interactive version](https://plot.ly/~ecalkins/106/mlb-stadiums-by-2018-home-runs-avg-attendance-hover-for-attendance-numbers)
+
 
 ![](select_plots/Studs_Duds_Location_Heatmap.JPG)
